@@ -23,6 +23,6 @@ The platform ensures affordability, optimized resource allocation, and reduces p
 ---
 
 ## **Final Presentation**  
-[View the Final Presentation](Project Proposal Presentation.pdf)
+[View the Final Presentation](ProjectProposalPresentation.pdf)
 
 ---
