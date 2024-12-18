@@ -2,14 +2,14 @@
 
 ## **Brief Description**
 InternSpace is a project aimed at addressing the housing challenges faced by students relocating for short-term internships or co-ops. The project proposed a web application platform to streamline temporary housing solutions, aligning with the unique needs of students and property owners. Our team successfully delivered key project management artifacts including:  
-- **[Work Breakdown Structure (WBS)](artifacts/WBS.pdf):** Provides a hierarchical decomposition of project tasks for efficient planning and execution.  
+- **[Work Breakdown Structure (WBS)](artifacts/WBS.png):** Provides a hierarchical decomposition of project tasks for efficient planning and execution.  
 - **Gantt Chart:** A visual representation of the project schedule over a 27-week timeline.
-  - [Gantt Chart Phase 1] (artifacts/GanttChart_1.pdf)
-  - [Gantt Chart Phase 2] (artifacts/GanttChart_2.pdf)
-  - [Gantt Chart Phase 3 & 4] (artifacts/GanttChart_3.pdf)
-- **[RACI Matrix](artifacts/RACI.pdf):** Defines team roles and responsibilities to ensure clarity and accountability.  
-- **[Risk Mitigation Plan](artifacts/Risk.pdf):** Identifies project risks and outlines strategies to reduce potential delays by 40%.  
-- **[Budget & Economic Viability Analysis](artifacts/Budget.pdf):** Ensures accurate cost estimation (95% accuracy) and justifies economic viability using NPV analysis.  
+  - [Gantt Chart Phase 1](artifacts/GanttChart_1.png)
+  - [Gantt Chart Phase 2](artifacts/GanttChart_2.png)
+  - [Gantt Chart Phase 3 & 4](artifacts/GanttChart_3.png)
+- **[RACI Matrix](artifacts/RACIMatrix.png):** Defines team roles and responsibilities to ensure clarity and accountability.  
+- **[Risk Mitigation Plan](artifacts/RiskMatrix.png):** Identifies project risks and outlines strategies to reduce potential delays by 40%.  
+- **[Budget Justification](artifacts/BudgetJustification.png):** Ensures accurate cost estimation (95% accuracy) and justifies economic viability using NPV analysis.  
 
 The platform ensures affordability, optimized resource allocation, and reduces project delays through tailored strategies.
 
