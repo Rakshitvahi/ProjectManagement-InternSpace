@@ -41,3 +41,11 @@ The platform ensures affordability, optimized resource allocation, and reduces p
 [View the Final Presentation](ProjectProposalPresentation.pdf)
 
 ---
+### **🤝 Contributors**
+
+- 🧑‍💻 **Santrupti Muttappa Bagali**  
+- 🧑‍💻 **Shantanu Mosalakanti**  
+- 🧑‍💻 **Aanchal Chholak**  
+- 🧑‍💻 **Neha Rasineni**  
+- 🧑‍💻 **Rakshit Vahi**  
+- 🧑‍💻 **Shreya Donthi**
