@@ -43,9 +43,9 @@ The platform ensures affordability, optimized resource allocation, and reduces p
 ---
 ### **🤝 Contributors**
 
-- 🧑‍💻 **Santrupti Muttappa Bagali**  
-- 🧑‍💻 **Shantanu Mosalakanti**  
-- 🧑‍💻 **Aanchal Chholak**  
-- 🧑‍💻 **Neha Rasineni**  
-- 🧑‍💻 **Rakshit Vahi**  
-- 🧑‍💻 **Shreya Donthi**
+- **Santrupti Muttappa Bagali**  
+- **Shantanu Mosalakanti**  
+- **Aanchal Chholak**  
+- **Neha Rasineni**  
+- **Rakshit Vahi**  
+- **Shreya Donthi**
